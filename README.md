@@ -36,6 +36,8 @@ This Solidity smart contract implements a simple daily login rewards system. Use
 - Call `login()` once per day to claim rewards.
 - Use `checkRewards(address user)` to view the accumulated rewards.
 
+## Smart Contract Address
+**Deployed Address:** `0x05CB6015B2EACcf48DF92bB25C96abE47D3a3774`
+
 ## License
 This project is licensed under the **MIT License**.
-
